@@ -5,7 +5,7 @@ First-year students build the micro:bit project. Second-year students build the 
 | If you're working on | Start here |
 | --- | --- |
 | Device code | [microbit/](microbit/README.md) — flash the example and capture its output |
-| Web app | [webapp/](webapp/README.md) — run the dashboard with sample data |
+| Web app | [webapp/](webapp/README.md) — where level 2s develop webapp |
 | Data passed between them | [shared/](shared/README.md) — reading format and sample output |
 
 ## Make your first contribution
